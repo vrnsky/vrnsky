@@ -5,11 +5,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-I am Egor Voronianskii 😃. I am from Moscow, Russia and currently doing my B.Tech from Sunway Univeristy, Malaysia 🏫.I love to explore and learn about new things.
+I am Egor Voronianskii 😃. I am currently doing my B.Tech from Sunway Univeristy, Malaysia 🏫.I love to explore and learn about new things.
 
-## 👯 Communities
-* Mentor at SkillFactory
-* Sunway University Tech Club
 
 ## ⚡ Technologies
 Talk to me about
