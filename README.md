@@ -19,8 +19,8 @@ Talk to me about
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [Egor Blog](https://vrnsky.me)
-- 🔔 Subscribe:- [Egor Voronianskii](https://twitter.com/VoronyanskyE)
+- 📫 Read me on [GitHub](https://vrnsky.github.io) or [Medium](https://medium.com/@vrnsky)
+- 🔔 Subscribe [Twitter](https://twitter.com/VoronyanskyE), [Telegram](https://t.me/VORONIANSKII)
 
 
 ![Egor's github stats](https://github-readme-stats.vercel.app/api?username=vrnsky&hide=["issues"]&show_icons=true)
