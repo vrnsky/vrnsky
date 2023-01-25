@@ -23,6 +23,6 @@ Talk to me about
 - 🔔 Subscribe [Twitter](https://twitter.com/VoronyanskyE), [Telegram](https://t.me/VORONIANSKII)
 
 
-![Egor's github stats](https://github-readme-stats.vercel.app/api?username=vrnsky&hide=["issues"]&show_icons=true)
+![Egor's github stats](https://github-readme-stats-git-master-vrnsky.vercel.app/api?username=vrnsky&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vrnsky.vrnsky)
