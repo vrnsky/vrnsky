@@ -22,7 +22,7 @@ Talk to me about
 - 📫 Read me on [GitHub](https://vrnsky.github.io) or [Medium](https://medium.com/@vrnsky)
 - 🔔 Subscribe [Twitter](https://twitter.com/VoronyanskyE), [Telegram](https://t.me/VORONIANSKII)
 
-
+![Egor's the most used  languages](https://github-readme-stats-git-master-vrnsky.vercel.app/api/top-langs/?username=vrnsky&show_icons=true&layout=compact) <br />
 ![Egor's github stats](https://github-readme-stats-git-master-vrnsky.vercel.app/api?username=vrnsky&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vrnsky.vrnsky)
