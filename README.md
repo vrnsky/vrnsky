@@ -10,12 +10,12 @@ I am Egor Voronianskii 😃. I am currently doing my B.Tech from Sunway Univeris
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Vue**
-- Backend development using **Spring Boot, Micronaut, Kotlin/Java**
-- Web application development using **Spring Boot**(Still learning)
+- Front-end development using **NodeJS, Vue**
+- Backend development using **Spring Boot, Micronaut, Quarkus, Kotlin/Java**
+- Web application development using **Spring Boot (2.x, 3.x)**
 - Mobile application development using **Kotlin**
-- Creating scalable cloud architecture using **AWS Cloud** and **YandexCloud**
-- Solving Data structure and algorithm questions in **Java and Python**
+- Creating scalable cloud architecture using **AWS Cloud** and **Google Cloud**
+- Solving Data structure and algorithm questions in **Java, Kotlin, Go**
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
