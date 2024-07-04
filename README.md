@@ -2,27 +2,36 @@
 
 [![@vrnsky's Holopin board](https://holopin.me/vrnsky)](https://holopin.io/@vrnsky)
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+![Profile views](https://komarev.com/ghpvc/?username=vrnsky&label=Profile%20views&color=60598F&style=flat)
+
+<div class="github-introduction">
+
+**I'm a Java Backend Developer**, sometimes doing frontend as well.
+
+</div>
+
+## Stack
+<div class="badges-intro">
+
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=purple)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat&logo=spring-boot&logoColor=green)
+![Maven](https://img.shields.io/badge/Maven-000000?style=flat&logo=apache-maven&logoColor=blue)
+![Gradle](https://img.shields.io/badge/Gradle-000000?style=flat&logo=gradle&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=#3178C6)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=#E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=#1572B6)
+
+</div>
 
 
-I am Egor Voronianskii 😃. I am currently doing my B.Tech from Sunway Univeristy, Malaysia 🏫.I love to explore and learn about new things.
+## 📈 My GitHub stats
+
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vrnsky&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrnsky&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+  </p>
+</div>
 
 
-## ⚡ Technologies
-Talk to me about
-- Front-end development using **NodeJS, Vue**
-- Backend development using **Spring Boot, Micronaut, Quarkus, Kotlin/Java**
-- Web application development using **Spring Boot (2.x, 3.x)**
-- Mobile application development using **Kotlin**
-- Creating scalable cloud architecture using **AWS Cloud** and **Google Cloud**
-- Solving Data structure and algorithm questions in **Java, Kotlin, Go**
-
-## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
-- 📫 Read me on [GitHub](https://vrnsky.github.io) or [Medium](https://medium.com/@vrnsky)
-- 🔔 Subscribe [Twitter](https://twitter.com/VoronyanskyE), [Telegram](https://t.me/VORONIANSKII)
-
-![Egor's the most used  languages](https://github-readme-stats-git-master-vrnsky.vercel.app/api/top-langs/?username=vrnsky&show_icons=true&layout=compact) <br />
-![Egor's github stats](https://github-readme-stats-git-master-vrnsky.vercel.app/api?username=vrnsky&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vrnsky.vrnsky)
