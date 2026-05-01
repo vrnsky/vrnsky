@@ -25,7 +25,6 @@ name:       Egor Voronianskii
 role:       Senior Java Developer / Tech Lead
 domain:     Fintech · Banking systems
 focus:      Microservices · Fault-tolerance · Event-driven architecture
-location:   Moscow region · Remote
 languages:  Russian (native) · English (C1)
 education:  B.Sc. Computer Science — Sunway University, Malaysia
 ```
